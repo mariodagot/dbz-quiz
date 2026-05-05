@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Dragon Ball</title>
+    <!-- Use Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div id="app" class="app-container">
+        
+        <!-- START SCREEN -->
+        <section id="start-screen" class="screen active">
+            <div class="glass-panel">
+                <div class="logo-container">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/800px-Dragon_Ball_Super.png" alt="Dragon Ball Logo" class="dbz-logo" onerror="this.style.display='none'">
+                    <h1>QUIZ DOS GUERREIROS Z</h1>
+                </div>
+                <p>Estás pronto para testar o teu conhecimento do universo?</p>
+                <div class="settings-container">
+                    <label for="question-count-select">Número de Perguntas:</label>
+                    <select id="question-count-select" class="styled-select">
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15" selected>15</option>
+                        <option value="20">20</option>
+                    </select>
+                </div>
+                <div style="display: flex; gap: 15px; justify-content: center;">
+                    <button id="start-btn" class="primary-btn" disabled>A Carregar...</button>
+                    <button id="view-ranking-btn" class="secondary-btn">Ver Ranking</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- QUIZ SCREEN -->
+        <section id="quiz-screen" class="screen">
+            <div class="glass-panel quiz-panel">
+                <header class="quiz-header">
+                    <div class="progress-container">
+                        <span id="question-counter">Pergunta 1/15</span>
+                        <div class="progress-bar">
+                            <div id="progress-indicator"></div>
+                        </div>
+                    </div>
+                    <div class="score-container">
+                        Pontuação: <span id="score-display">0</span>
+                    </div>
+                </header>
+
+                <div class="question-container">
+                    <h2 id="question-text">Question text goes here?</h2>
+                </div>
+
+                <div id="options-container" class="options-container">
+                    <!-- Options generated dynamically via JS -->
+                </div>
+                
+                <div class="controls-container">
+                    <button id="next-btn" class="secondary-btn hidden">Próxima Pergunta &rarr;</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- RESULT SCREEN -->
+        <section id="result-screen" class="screen">
+            <div class="glass-panel result-panel">
+                <div class="result-header">
+                    <h2>Treino Concluído!</h2>
+                </div>
+                <div class="result-score-glow">
+                    <p>A Tua Pontuação Final:</p>
+                    <h1 id="final-score">0</h1>
+                    <p id="total-questions-display">em 15</p>
+                </div>
+                <div class="result-message-container">
+                    <h3 id="result-message">És um Super Guerreiro!</h3>
+                </div>
+                
+                <div class="save-score-container" id="save-score-container">
+                    <input type="text" id="player-name" placeholder="O teu nome de guerreiro" class="styled-input" maxlength="15">
+                    <button id="save-score-btn" class="primary-btn small-btn">Guardar Ranking</button>
+                </div>
+
+                <div style="display: flex; gap: 15px;">
+                    <button id="restart-btn" class="secondary-btn">Jogar Novamente</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- RANKING SCREEN -->
+        <section id="ranking-screen" class="screen">
+            <div class="glass-panel ranking-panel">
+                <div class="result-header">
+                    <h2>Mural de Honra</h2>
+                </div>
+                <div class="ranking-list-container">
+                    <ul id="ranking-list" class="ranking-list">
+                        <!-- Rankings aparecerão aqui -->
+                    </ul>
+                </div>
+                <button id="back-to-home-btn" class="primary-btn">Voltar ao Menu</button>
+            </div>
+        </section>
+
+        <!-- Particle Effects Container -->
+        <div id="particles"></div>
+    </div>
+
+    <!-- Script imports -->
+    <script type="module" src="script.js"></script>
+</body>
+</html>

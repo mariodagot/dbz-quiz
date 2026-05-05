@@ -1,0 +1,3002 @@
+[
+  {
+    "question": "Qual é o nome do ataque principal do Son Goku?",
+    "options": [
+      "Canhão Galick",
+      "Raio Diabólico",
+      "Onda Vital",
+      "Força Universal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quantas Bolas de Cristal precisas de reunir para invocar o Dragão Shenron?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é o primeiro filho do Son Goku?",
+    "options": [
+      "Son Goten",
+      "Trunks",
+      "Son Gohan",
+      "Coraçãozinho de Satã"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "De que cor fica o cabelo de um Super Guerreiro normal?",
+    "options": [
+      "Azul",
+      "Vermelho",
+      "Amarelo/Dourado",
+      "Verde"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A que raça alienígena pertencem o Goku e o Vegeta?",
+    "options": [
+      "Namek",
+      "Guerreiros do Espaço",
+      "Exército do Freezer",
+      "Terráqueos"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é o melhor amigo de infância do Goku (que não tem nariz)?",
+    "options": [
+      "Yamcha",
+      "Ten Shin Han",
+      "Vegeta",
+      "Krillin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual é o nome do guerreiro verde que treinou o Gohan?",
+    "options": [
+      "Todo Poderoso",
+      "Dende",
+      "Nail",
+      "Coraçãozinho de Satã"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes vilões destruiu o Planeta Vegeta?",
+    "options": [
+      "Cell",
+      "Buu Buu",
+      "Freezer",
+      "Raditz"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é o Deus da Destruição do Universo 7 que se parece com um gato?",
+    "options": [
+      "Whis",
+      "Champa",
+      "Beerus",
+      "Zeno"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que técnica poderosa o Goku aprendeu com o Senhor Kaioh?",
+    "options": [
+      "Kaio-ken",
+      "Disco Mágico",
+      "Golpe do Dragão",
+      "Golpe do Sol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é o marido da Bulma?",
+    "options": [
+      "Yamcha",
+      "Son Goku",
+      "Vegeta",
+      "Krillin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual é a forma de nível muito alto que o Goku atinge durante o Torneio do Poder?",
+    "options": [
+      "Super Guerreiro Azul",
+      "Ultra Instinto",
+      "Super Guerreiro 4",
+      "Goku Místico"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem inventou o Radar do Dragão?",
+    "options": [
+      "Dr. Briefs",
+      "Bulma",
+      "Gohan",
+      "Androide 16"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "O que diz o detetor sobre a força do Goku aquando a luta contra o Nappa na versão portuguesa?",
+    "options": [
+      "São mais de 9000!",
+      "É exatamente 10.000!",
+      "São mais de oito mil!",
+      "É 8000!"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que roupa pesada é que o Coraçãozinho de Satã costuma usar para treinar?",
+    "options": [
+      "Uma capa e um turbante pesados",
+      "Botas pesadas",
+      "Pulseiras de aço",
+      "Uma t-shirt pesada"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Son Goku?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Son Goku?",
+    "options": [
+      "Sala do Tempo (Simulação)",
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Vegeta?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Vegeta?",
+    "options": [
+      "Planeta Namek",
+      "Sala do Tempo (Simulação)",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Krillin?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Krillin?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Yamcha?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Yamcha?",
+    "options": [
+      "Sala do Tempo (Simulação)",
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Ten Shin Han?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Ten Shin Han?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Coraçãozinho de Satã?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Coraçãozinho de Satã?",
+    "options": [
+      "Planeta Namek",
+      "Sala do Tempo (Simulação)",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Son Gohan?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Son Gohan?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Bulma?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Bulma?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Tartaruga Genial?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Tartaruga Genial?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Senhor Kaioh?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Senhor Kaioh?",
+    "options": [
+      "Sala do Tempo (Simulação)",
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Freezer?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Freezer?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Cell?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Cell?",
+    "options": [
+      "Planeta Namek",
+      "Sala do Tempo (Simulação)",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Buu Buu?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Buu Buu?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Trunks?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Trunks?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Son Goten?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Son Goten?",
+    "options": [
+      "Sala do Tempo (Simulação)",
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Beerus?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Beerus?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Whis?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Whis?",
+    "options": [
+      "Planeta Namek",
+      "Sala do Tempo (Simulação)",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Videl?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Videl?",
+    "options": [
+      "Sala do Tempo (Simulação)",
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Nappa?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Nappa?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Raditz?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Raditz?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Zarbon?",
+    "options": [
+      "Lutador de Artes Marciais/Z",
+      "Demónio",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Zarbon?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Dodoria?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Dodoria?",
+    "options": [
+      "Planeta Namek",
+      "Sala do Tempo (Simulação)",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Forças Especiais do Ginyu?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Forças Especiais do Ginyu?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Androide 18?",
+    "options": [
+      "Demónio",
+      "Lutador de Artes Marciais/Z",
+      "Anjo",
+      "Divindade"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Androide 18?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Androide 17?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Androide 17?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Androide 16?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Androide 16?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Dr. Gero?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Dr. Gero?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Babidi?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Babidi?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Dabura?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Lutador de Artes Marciais/Z",
+      "Divindade"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Dabura?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Esconderijo do Freezer",
+      "Sala do Tempo (Simulação)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Que tipo de guerreiro é o/a Mr. Satan?",
+    "options": [
+      "Demónio",
+      "Anjo",
+      "Divindade",
+      "Lutador de Artes Marciais/Z"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual destes locais foi um lugar de treino para Mr. Satan?",
+    "options": [
+      "Planeta Namek",
+      "Mundo dos Dragões",
+      "Sala do Tempo (Simulação)",
+      "Esconderijo do Freezer"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Super Guerreiro? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe",
+      "Sim/Não (Depende da saga)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Super Guerreiro? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Super Guerreiro? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe",
+      "Sim/Não (Depende da saga)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Super Guerreiro 2? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Super Guerreiro 2? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Super Guerreiro 2? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Sim/Não (Depende da saga)",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Super Guerreiro 3? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Super Guerreiro 3? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Super Guerreiro 3? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Super Guerreiro Deus? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe",
+      "Sim/Não (Depende da saga)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Super Guerreiro Deus? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Super Guerreiro Deus? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Super Guerreiro Azul? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Super Guerreiro Azul? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Super Guerreiro Azul? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe",
+      "Sim/Não (Depende da saga)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Ultra Instinto? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe",
+      "Sim/Não (Depende da saga)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Ultra Instinto? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Sim/Não (Depende da saga)",
+      "Não se sabe"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Ultra Instinto? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Goku consegue atingir a forma Forma Dourada? (História principal)",
+    "options": [
+      "Apenas nos filmes",
+      "Sim/Não (Depende da saga)",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Será que o/a Vegeta consegue atingir a forma Forma Dourada? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Será que o/a Son Gohan consegue atingir a forma Forma Dourada? (História principal)",
+    "options": [
+      "Sim/Não (Depende da saga)",
+      "Apenas nos filmes",
+      "Nunca tentou",
+      "Não se sabe"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual o nome da mulher do Goku?",
+    "options": [
+      "Chi-Chi",
+      "Bulma",
+      "Videl",
+      "Androide 18"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Qual o nome do pai do Goku?",
+    "options": [
+      "Rei Vegeta",
+      "Raditz",
+      "Broly",
+      "Bardock"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Qual a raça do Freezer?",
+    "options": [
+      "Demónios do Frio (Raça do Freezer)",
+      "Guerreiro do Espaço",
+      "Namek",
+      "Tsufurujin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Onde se realiza o Torneio de Artes Marciais?",
+    "options": [
+      "Namek",
+      "Terra",
+      "Planeta Vegeta",
+      "Outro Mundo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quantos corações tem um Namek normal?",
+    "options": [
+      "1 (assumido)",
+      "2",
+      "3",
+      "Nenhum"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem cortou a cauda do Vegeta primeira vez na Terra?",
+    "options": [
+      "Yajirobe",
+      "Krillin",
+      "Goku",
+      "Son Gohan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem ensinou a fusão ao Goten e Trunks?",
+    "options": [
+      "Son Goku / Coraçãozinho de Satã",
+      "Vegeta",
+      "Tartaruga Genial",
+      "Senhor Kaioh"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "O que a Bulma usava para encontrar as Bolas de Cristal?",
+    "options": [
+      "Radar do Dragão",
+      "Bússola",
+      "Telepatia",
+      "Magia"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A que horas começa a transmissão do Torneio do Cell?",
+    "options": [
+      "À noite",
+      "De manhã",
+      "Pela madrugada",
+      "Não teve hora"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Que item regenera vida instantaneamente?",
+    "options": [
+      "Sumo de Maçã",
+      "Comida do Sr. Kaioh",
+      "Feijões Mágicos (Senzu)",
+      "Ervas Namek"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Zarbon",
+      "Yamcha",
+      "Babidi",
+      "Ten Shin Han"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Androide 17",
+      "Buu Buu",
+      "Coraçãozinho de Satã",
+      "Trunks"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Androide 16",
+      "Senhor Kaioh",
+      "Videl",
+      "Krillin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Androide 18",
+      "Krillin",
+      "Son Goku",
+      "Beerus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Son Goku",
+      "Bulma",
+      "Dr. Gero",
+      "Son Goten"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Ten Shin Han",
+      "Coraçãozinho de Satã",
+      "Freezer",
+      "Androide 18"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Trunks",
+      "Son Goku",
+      "Bulma",
+      "Forças Especiais do Ginyu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Androide 18",
+      "Forças Especiais do Ginyu",
+      "Vegeta",
+      "Son Gohan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Son Goku",
+      "Androide 18",
+      "Androide 16",
+      "Videl"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Son Gohan",
+      "Videl",
+      "Raditz",
+      "Cell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Dodoria",
+      "Freezer",
+      "Androide 16",
+      "Buu Buu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Krillin",
+      "Yamcha",
+      "Dodoria",
+      "Son Gohan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Androide 16",
+      "Son Goku",
+      "Mr. Satan",
+      "Vegeta"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Androide 17",
+      "Dodoria",
+      "Son Goku",
+      "Babidi"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Beerus",
+      "Dodoria",
+      "Son Goten",
+      "Raditz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Son Goten",
+      "Androide 17",
+      "Whis",
+      "Videl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Cell",
+      "Tartaruga Genial",
+      "Androide 16",
+      "Mr. Satan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Dodoria",
+      "Cell",
+      "Buu Buu",
+      "Freezer"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Videl",
+      "Coraçãozinho de Satã",
+      "Trunks",
+      "Son Goku"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Raditz",
+      "Son Goten",
+      "Whis",
+      "Son Gohan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Forças Especiais do Ginyu",
+      "Coraçãozinho de Satã",
+      "Senhor Kaioh",
+      "Yamcha"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Dabura",
+      "Zarbon",
+      "Cell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Bulma",
+      "Cell",
+      "Dabura",
+      "Freezer"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Ten Shin Han",
+      "Senhor Kaioh",
+      "Bulma",
+      "Yamcha"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Tartaruga Genial",
+      "Bulma",
+      "Zarbon",
+      "Videl"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Androide 17",
+      "Babidi",
+      "Videl",
+      "Son Goten"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Androide 16",
+      "Cell",
+      "Son Goku",
+      "Dabura"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Bulma",
+      "Son Gohan",
+      "Nappa",
+      "Dabura"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Freezer",
+      "Trunks",
+      "Son Goten"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Raditz",
+      "Trunks",
+      "Androide 16",
+      "Whis"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Androide 16",
+      "Nappa",
+      "Son Goku",
+      "Senhor Kaioh"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Son Gohan",
+      "Nappa",
+      "Dodoria",
+      "Vegeta"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Dodoria",
+      "Son Gohan",
+      "Androide 16",
+      "Buu Buu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Bulma",
+      "Videl",
+      "Androide 17",
+      "Son Goku"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Androide 16",
+      "Zarbon",
+      "Dodoria",
+      "Videl"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Whis",
+      "Freezer",
+      "Trunks",
+      "Bulma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Videl",
+      "Androide 17",
+      "Vegeta",
+      "Yamcha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Whis",
+      "Zarbon",
+      "Dabura",
+      "Videl"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Androide 17",
+      "Senhor Kaioh",
+      "Bulma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Son Gohan",
+      "Senhor Kaioh",
+      "Beerus",
+      "Trunks"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Dr. Gero",
+      "Forças Especiais do Ginyu",
+      "Son Goten",
+      "Ten Shin Han"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Forças Especiais do Ginyu",
+      "Whis",
+      "Beerus",
+      "Videl"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Cell",
+      "Nappa",
+      "Son Goku",
+      "Androide 16"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Androide 17",
+      "Videl",
+      "Yamcha",
+      "Forças Especiais do Ginyu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Androide 17",
+      "Cell",
+      "Androide 18",
+      "Freezer"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Babidi",
+      "Trunks",
+      "Son Gohan",
+      "Zarbon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Videl",
+      "Androide 16",
+      "Senhor Kaioh",
+      "Dabura"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Whis",
+      "Son Goten",
+      "Beerus",
+      "Mr. Satan"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Zarbon",
+      "Dabura",
+      "Senhor Kaioh",
+      "Vegeta"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Beerus",
+      "Raditz",
+      "Dabura",
+      "Videl"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Trunks",
+      "Dabura",
+      "Son Goku",
+      "Yamcha"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Babidi",
+      "Son Gohan",
+      "Nappa",
+      "Dodoria"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Yamcha",
+      "Zarbon",
+      "Videl",
+      "Androide 16"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Dr. Gero",
+      "Trunks",
+      "Raditz",
+      "Mr. Satan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Androide 16",
+      "Son Gohan",
+      "Whis",
+      "Son Goten"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Androide 16",
+      "Dr. Gero",
+      "Nappa",
+      "Beerus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Forças Especiais do Ginyu",
+      "Whis",
+      "Dr. Gero",
+      "Son Goten"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Senhor Kaioh",
+      "Zarbon",
+      "Androide 17",
+      "Ten Shin Han"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Son Gohan",
+      "Son Goten",
+      "Dr. Gero",
+      "Krillin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Androide 17",
+      "Dabura",
+      "Nappa",
+      "Zarbon"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Mr. Satan",
+      "Senhor Kaioh",
+      "Babidi",
+      "Son Gohan"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Bulma",
+      "Yamcha",
+      "Cell"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Whis",
+      "Ten Shin Han",
+      "Videl",
+      "Cell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Androide 17",
+      "Androide 18",
+      "Senhor Kaioh",
+      "Yamcha"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Freezer",
+      "Whis",
+      "Androide 17",
+      "Son Goku"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Androide 16",
+      "Beerus",
+      "Babidi",
+      "Raditz"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Androide 18",
+      "Krillin",
+      "Zarbon",
+      "Nappa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Son Goku",
+      "Dodoria",
+      "Vegeta",
+      "Bulma"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Trunks",
+      "Androide 16",
+      "Nappa",
+      "Krillin"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Bulma",
+      "Dr. Gero",
+      "Son Gohan",
+      "Forças Especiais do Ginyu"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Buu Buu",
+      "Dodoria",
+      "Coraçãozinho de Satã",
+      "Androide 18"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Son Gohan",
+      "Dabura",
+      "Mr. Satan",
+      "Senhor Kaioh"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Freezer",
+      "Son Goten",
+      "Tartaruga Genial"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Trunks",
+      "Videl",
+      "Ten Shin Han",
+      "Yamcha"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Ataque do Big Bang ou similares?",
+    "options": [
+      "Beerus",
+      "Dr. Gero",
+      "Androide 17",
+      "Buu Buu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Coraçãozinho de Satã",
+      "Babidi",
+      "Forças Especiais do Ginyu",
+      "Androide 18"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Videl",
+      "Tartaruga Genial",
+      "Dr. Gero",
+      "Dodoria"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Terra?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Raditz",
+      "Cell",
+      "Dodoria",
+      "Senhor Kaioh"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Yamcha",
+      "Forças Especiais do Ginyu",
+      "Tartaruga Genial",
+      "Bulma"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Mr. Satan",
+      "Coraçãozinho de Satã",
+      "Son Goten",
+      "Yamcha"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Zarbon",
+      "Coraçãozinho de Satã",
+      "Krillin",
+      "Freezer"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Forças Especiais do Ginyu",
+      "Ten Shin Han",
+      "Mr. Satan",
+      "Dr. Gero"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Babidi",
+      "Buu Buu",
+      "Dodoria",
+      "Vegeta"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Forças Especiais do Ginyu",
+      "Senhor Kaioh",
+      "Zarbon",
+      "Cell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Dabura",
+      "Videl",
+      "Buu Buu",
+      "Ten Shin Han"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Onda Vital ou similares?",
+    "options": [
+      "Senhor Kaioh",
+      "Son Goten",
+      "Cell",
+      "Dr. Gero"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Kienzan (Disco Mágico) ou similares?",
+    "options": [
+      "Videl",
+      "Dr. Gero",
+      "Freezer",
+      "Raditz"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Yamcha",
+      "Babidi",
+      "Senhor Kaioh",
+      "Forças Especiais do Ginyu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Senhor Kaioh?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias",
+      "Lutas pela sobrevivência/Batalhas Épicas"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Freezer",
+      "Androide 16",
+      "Whis",
+      "Son Goku"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Esfera de Espírito ou similares?",
+    "options": [
+      "Ten Shin Han",
+      "Dabura",
+      "Cell",
+      "Zarbon"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Zarbon",
+      "Vegeta",
+      "Yamcha",
+      "Nappa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Raditz",
+      "Yamcha",
+      "Trunks",
+      "Dabura"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Canhão Galick ou similares?",
+    "options": [
+      "Vegeta",
+      "Dabura",
+      "Tartaruga Genial",
+      "Androide 18"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vegeta?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Babidi",
+      "Trunks",
+      "Vegeta",
+      "Androide 17"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta do Beerus?",
+    "options": [
+      "Torneio da Vida",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Final Flash ou similares?",
+    "options": [
+      "Nappa",
+      "Zarbon",
+      "Dodoria",
+      "Androide 16"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Aki-Maki-ko (Kikouhou) ou similares?",
+    "options": [
+      "Dodoria",
+      "Androide 18",
+      "Whis",
+      "Beerus"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Planeta Vampa?",
+    "options": [
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Guerra das Galáxias"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Quem é frequentemente associado ao uso frequente de ataques de energia como o Raio Diabólico ou similares?",
+    "options": [
+      "Son Gohan",
+      "Mr. Satan",
+      "Androide 18",
+      "Vegeta"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Considerando o universo Dragon Ball, o que aconteceu maioritariamente em Namek?",
+    "options": [
+      "Torneio da Vida",
+      "Reunião de Humanos",
+      "Lutas pela sobrevivência/Batalhas Épicas",
+      "Guerra das Galáxias"
+    ],
+    "answer": 2
+  }
+]
